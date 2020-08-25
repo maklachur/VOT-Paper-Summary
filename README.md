@@ -11,7 +11,7 @@
 
 ## SAsiam CVPR 2018 (Paper Summary): A Twofold Siamese Network for Real-Time Object Tracking.
 <details>
-      <summary>Your header here! (Click to expand)</summary>
+      <summary> Click here! to see this paper summary.</summary>
       <p align="center">
         <img src="SAsiam CVPR 2018.gif" />
       </p>
@@ -22,19 +22,24 @@
 
 
 ## FCAF IEEE Access 2019 (Paper Summary): Fully Conventional Anchor-Free Siamese Networks for Object Tracking.
+<details>
+      <summary> Click here! to see this paper summary.</summary>
+      <p align="center">
+        <img src="FCAF IEEE Access 2019.gif" />
+      </p>
 
-<p align="center">
-  <img src="FCAF IEEE Access 2019.gif" />
-</p>
+</details>   
 
 ![[Original paper link]](https://ieeexplore.ieee.org/abstract/document/8817955)
 
 
 ### IMG-Siam IEEE Access 2019 (Paper Summary): Initial Matting-Guided Visual Tracking with Siamese Network.
+<details>
+      <p align="center">
+        <img src="IMG-Siam IEEE Access 2019.gif" />
+      </p>
 
-<p align="center">
-  <img src="IMG-Siam IEEE Access 2019.gif" />
-</p>
+</details> 
 
 ![[Original paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8674549)
 
