@@ -11,16 +11,10 @@
 
 ### SAsiam CVPR 2018 (Paper Summary): A Twofold Siamese Network for Real-Time Object Tracking.
 <details>
-<summary>
-[See this paper summary...]
+<summary> [See this paper summary...] </summary>
 <p align="center">
   <img src="SAsiam CVPR 2018.gif" />
 </p>
-</summary>
-</details>
-
-
-
 </details>
 
 <p align="center">
