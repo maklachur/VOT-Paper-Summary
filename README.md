@@ -1,6 +1,6 @@
 # Visual Object Tracking (VOT) Paper Summary
 
-### SiamBAN CVPR 2020 (PaperSummary): Siamese Box Adaptive Network for Visual Tracking.
+## SiamBAN CVPR 2020 (PaperSummary): Siamese Box Adaptive Network for Visual Tracking.
 
 <p align="center">
   <img src="SiamBAN CVPR 2020.gif" />
@@ -9,22 +9,19 @@
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
 
 
-### SAsiam CVPR 2018 (Paper Summary): A Twofold Siamese Network for Real-Time Object Tracking.
+## SAsiam CVPR 2018 (Paper Summary): A Twofold Siamese Network for Real-Time Object Tracking.
 <details>
-<summary> [See this paper summary...] </summary>
-<p align="center">
-  <img src="SAsiam CVPR 2018.gif" />
-</p>
+      <summary>Your header here! (Click to expand)</summary>
+      <p align="center">
+        <img src="SAsiam CVPR 2018.gif" />
+      </p>
+
 </details>
-
-<p align="center">
-  <img src="SAsiam CVPR 2018.gif" />
-</p>
-
+    
 ![[Original paper link]](https://arxiv.org/abs/1802.08817)
 
 
-### FCAF IEEE Access 2019 (Paper Summary): Fully Conventional Anchor-Free Siamese Networks for Object Tracking.
+## FCAF IEEE Access 2019 (Paper Summary): Fully Conventional Anchor-Free Siamese Networks for Object Tracking.
 
 <p align="center">
   <img src="FCAF IEEE Access 2019.gif" />
