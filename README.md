@@ -3,13 +3,25 @@
 ### SiamBAN CVPR 2020 (PaperSummary): Siamese Box Adaptive Network for Visual Tracking.
 
 <p align="center">
-  <img src="SiamBAN CVPR 2020.mp4" />
+  <img src="SiamBAN CVPR 2020.gif" />
 </p>
 
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
 
 
 ### SAsiam CVPR 2018 (Paper Summary): A Twofold Siamese Network for Real-Time Object Tracking.
+<details>
+<summary>
+[See this paper summary...]
+<p align="center">
+  <img src="SAsiam CVPR 2018.gif" />
+</p>
+</summary>
+</details>
+
+
+
+</details>
 
 <p align="center">
   <img src="SAsiam CVPR 2018.gif" />
