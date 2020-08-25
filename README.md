@@ -3,7 +3,7 @@
 ### SiamBAN CVPR 2020 (PaperSummary): Siamese Box Adaptive Network for Visual Tracking.
 
 <p align="center">
-  <img src="SiamBAN CVPR 2020.gif" />
+  <img src="SiamBAN CVPR 2020.mp4" />
 </p>
 
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
