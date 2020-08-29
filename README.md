@@ -10,6 +10,19 @@
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
 
 
+### SiamCAR CVPR 2020 (Paper Summary):SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking .
+<details>
+      <summary> Click here!!! to see this paper summary.</summary>
+      <p align="center">
+        <img src="SiamCAR CVPR 2020.gif" />
+      </p>
+
+</details>
+
+![[Download Summary Presentation]](https://github.com/maklachur/VOT-Paper-Summary/blob/master/SiamCAR%20CVPR%202020.pptx)
+![[Original paper link]](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.html)
+
+
 ### SAsiam CVPR 2018 (Paper Summary):A Twofold Siamese Network for Real-Time Object Tracking.
 <details>
       <summary> Click here!!! to see this paper summary.</summary>
