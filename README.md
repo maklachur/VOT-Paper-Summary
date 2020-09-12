@@ -35,6 +35,17 @@
 ![[Download Summary Presentation]](https://github.com/maklachur/VOT-Paper-Summary/blob/master/SAsiam%20CVPR%202018.pptx)
 ![[Original paper link]](https://arxiv.org/abs/1802.08817)
 
+### SiamFC ECCV 2016 (Paper Summary): Fully-Convolutional Siamese Networks for Object Tracking. [Basic paper for Siamese based visual object tracking]
+<details>
+      <summary> Click here!!! to see this paper summary.</summary>
+      <p align="center">
+        <img src="SiamFC ECCV 2016.gif" />
+      </p>
+
+</details>
+
+![[Download Summary Presentation]](https://github.com/maklachur/VOT-Paper-Summary/blob/master/SiamFC%20ECCV%202016.pptx)
+![[Original paper link]](https://arxiv.org/abs/1606.09549)
 
 ### FCAF IEEE Access 2019 (Paper Summary): Fully Conventional Anchor-Free Siamese Networks for Object Tracking.
 <details>
