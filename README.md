@@ -10,6 +10,17 @@
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
 ![[Github link]](https://github.com/hqucv/siamban)
 
+### SATIN Elsevier Knowledge-Based Systems 2020 (Paper Summary): Siamese Attentional Keypoint Network for High Performance Visual Tracking.
+<details>
+      <summary> Click here!!! to see this paper summary.</summary>
+      <p align="center">
+        <img src="SATIN_Elsevier_KBS.gif" />
+      </p>
+
+</details>
+
+![[Download Paper Overview]](https://github.com/maklachur/VOT-Paper-Summary/blob/master/SATIN%20Elsevier%20KBS.pptx)
+![[Original paper link]](https://www.sciencedirect.com/science/article/pii/S0950705119306665)
 
 ### SiamCAR CVPR 2020 (Paper Summary):SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking .
 <details>
