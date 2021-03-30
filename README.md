@@ -10,6 +10,21 @@
 ![[Original paper link]](https://arxiv.org/abs/2003.06761)
 ![[Github link]](https://github.com/hqucv/siamban)
 
+### SiamCAN IEEE TIP 2021 (Paper Summary): SiamCAN: Real-Time Visual Tracking Based on Siamese Center-Aware Network.
+
+<details>
+      <summary> Click here!!! to see this paper summary.</summary>
+      <p align="center">
+        <img src="SiamCAN-IEEE-TIP-2021.gif" />
+      </p>
+
+</details>
+
+![[Download Paper Overview]](https://github.com/maklachur/VOT-Paper-Summary/blob/master/SiamCAN-IEEE%20TIP%202021.pptx)
+![[Original paper link]](https://ieeexplore.ieee.org/abstract/document/9369121/)
+![[Alternative link]](https://arxiv.org/pdf/1912.05515.pdf)
+![[Github link]](https://isrc.iscas.ac.cn/gitlab/research/siamcan)
+
 ### SATIN Elsevier Knowledge-Based Systems 2020 (Paper Summary): Siamese Attentional Keypoint Network for High Performance Visual Tracking.
 <details>
       <summary> Click here!!! to see this paper summary.</summary>
